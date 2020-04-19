@@ -1,0 +1,3 @@
+canvas_token = "4511~lMd5hYeJEmLzeE0g2IUOeeRfsH88LM8PCGVsNGcyL8oSKWypf1d5NIHud3YdDkdk"
+marvel_public_key = "c300f87540268ed2743141a7de8700a5"
+marvel_private_key = "3e19765cc783a20baab5473e1d67e6e06579de8f"
